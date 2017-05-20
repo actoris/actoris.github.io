@@ -4,7 +4,7 @@ description: >
   a personal blog
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.actoris.me" # the base hostname & protocol for your site
+url: "https://actoris.me" # the base hostname & protocol for your site
 
 author:
   fullname: Adam Toris
